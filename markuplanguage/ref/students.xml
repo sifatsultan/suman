@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<students>
+
+	<!-- Student -->
+	<student>
+		<!--Personal Details -->
+		<personaldetails>
+			<id>12548</id>
+			<title>Md</title>
+			<name type="surname">Sultan</name>
+			<name type="preferred_given">Shihab</name>
+			<name type="given_name">Shihab</name>
+			<gender>Male</gender>
+			<dob>24/5/1994</dob>
+			<email>shihabsultan@gmail.com</email>
+			<photo>img/shihab.png</photo>
+		</personaldetails>
+		<!-- Personal Details End -->
+
+		<!-- Courses -->
+		<courses>
+			<course status="Completed">1458</course>
+			<course status="Discontinued">3458</course>
+			<course status="Incomplete">1258</course>
+		</courses>
+		<!-- End Courses -->
+
+		<!-- Addresses -->
+		<addresses>
+			<!-- Home Address -->
+			<address type="Home">
+				<start_date>12/4/2001</start_date>
+				<address_line>147 Chappal Road</address_line>
+				<suburb>Hummus Land</suburb>
+				<post_code>4445</post_code>
+				<number type="home">45748536</number>
+				<number type="mobile">96859665</number>
+				<number type="work">74885985</number>
+				<number type="fax">98978585</number>
+			</address>
+			<!-- End Home Address -->
+			<!-- Correspondence Address -->
+			<address type="Correspondence">
+				<start_date>12/7/2005</start_date>
+				<address_line>85 Howick</address_line>
+				<suburb>Burswood</suburb>
+				<post_code>6578</post_code>
+				<number type="home">45745636</number>
+				<number type="mobile">96851245</number>
+				<number type="work">74888575</number>
+				<number type="fax">65748585</number>
+			</address>
+			<!-- End Correspondence Address -->
+		</addresses>
+		<!-- End Addresses -->
+	</student>
+	<!-- End Student -->
+
+
+	<!-- Student -->
+	<student>
+		<!--Personal Details -->
+		<personaldetails>
+			<id>12548</id>
+			<title>Md</title>
+			<name type="surname">Sultan</name>
+			<name type="preferred_given">Shihab</name>
+			<name type="given_name">Shihab</name>
+			<gender>Male</gender>
+			<dob>24/5/1994</dob>
+			<email>shihabsultan@gmail.com</email>
+			<photo>img/sifat.png</photo>
+		</personaldetails>
+		<!-- Personal Details End -->
+
+		<!-- Courses -->
+		<courses>
+			<course status="Discontinued">5814</course>
+			<course status="Completed">5834</course>
+			<course status="Completed">5812</course>
+		</courses>
+		<!-- End Courses -->
+
+		<!-- Addresses -->
+		<addresses>
+			<!-- Home Address -->
+			<address type="home">
+				<start_date>12/4/2003</start_date>
+				<address_line>147 Happalink Road</address_line>
+				<suburb>Hummus Land</suburb>
+				<post_code>4445</post_code>
+				<number type="home">85364574</number>
+				<number type="mobile">96659685</number>
+				<number type="work">59857488</number>
+				<number type="fax">85859897</number>
+			</address>
+			<!-- End Home Address -->
+			<!-- Correspondence Address -->
+			<address type="correspondence">
+				<start_date>12/7/2004</start_date>
+				<address_line>85 Dibba</address_line>
+				<suburb>Murirtin</suburb>
+				<post_code>7865</post_code>
+				<number type="home">56364574</number>
+				<number type="mobile">12459685</number>
+				<number type="work">85757488</number>
+				<number type="fax">85856574</number>
+			</address>
+			<!-- End Correspondence Address -->
+		</addresses>
+		<!-- End Addresses -->
+	</student>
+	<!-- End Student -->
+
+
+
+
+	<!-- Student -->
+	<student>
+		<!--Personal Details -->
+		<personaldetails>
+			<id>9867</id>
+			<title>Md</title>
+			<name type="surname">Sultan</name>
+			<name type="preferred_given">Sifat</name>
+			<name type="given_name">Sifat</name>
+			<gender>Male</gender>
+			<dob>24/5/1991</dob>
+			<email>sifatsultan@gmail.com</email>
+			<photo>img/sifat.png</photo>
+		</personaldetails>
+		<!-- Personal Details End -->
+
+		<!-- Courses -->
+		<courses>
+			<course status="Discontinued">5814</course>
+			<course status="Completed">5834</course>
+			<course status="Completed">5812</course>
+		</courses>
+		<!-- End Courses -->
+
+		<!-- Addresses -->
+		<addresses>
+			<!-- Home Address -->
+			<address type="home">
+				<start_date>12/4/2003</start_date>
+				<address_line>147 Happalink Road</address_line>
+				<suburb>Hummus Land</suburb>
+				<post_code>4445</post_code>
+				<number type="home">85364574</number>
+				<number type="mobile">96659685</number>
+				<number type="work">59857488</number>
+				<number type="fax">85859897</number>
+			</address>
+			<!-- End Home Address -->
+			<!-- Correspondence Address -->
+			<address type="correspondence">
+				<start_date>12/7/2004</start_date>
+				<address_line>85 Dibba</address_line>
+				<suburb>Murirtin</suburb>
+				<post_code>7865</post_code>
+				<number type="home">56364574</number>
+				<number type="mobile">12459685</number>
+				<number type="work">85757488</number>
+				<number type="fax">85856574</number>
+			</address>
+			<!-- End Correspondence Address -->
+		</addresses>
+		<!-- End Addresses -->
+	</student>
+	<!-- End Student -->
+
+
+
+
+	<!-- Student -->
+	<student>
+		<!--Personal Details -->
+		<personaldetails>
+			<id>12548</id>
+			<title>Md</title>
+			<name type="surname">Sultan</name>
+			<name type="preferred_given">Sifat</name>
+			<name type="given_name">Sifat</name>
+			<gender>Male</gender>
+			<dob>24/5/1991</dob>
+			<email>sifatsultan@gmail.com</email>
+			<photo>img/sifat.png</photo>
+		</personaldetails>
+		<!-- Personal Details End -->
+
+		<!-- Courses -->
+		<courses>
+			<course status="Discontinued">5814</course>
+			<course status="Completed">5834</course>
+			<course status="Completed">5812</course>
+		</courses>
+		<!-- End Courses -->
+
+		<!-- Addresses -->
+		<addresses>
+			<!-- Home Address -->
+			<address type="home">
+				<start_date>12/4/2003</start_date>
+				<address_line>147 Happalink Road</address_line>
+				<suburb>Hummus Land</suburb>
+				<post_code>4445</post_code>
+				<number type="home">85364574</number>
+				<number type="mobile">96659685</number>
+				<number type="work">59857488</number>
+				<number type="fax">85859897</number>
+			</address>
+			<!-- End Home Address -->
+			<!-- Correspondence Address -->
+			<address type="correspondence">
+				<start_date>12/7/2004</start_date>
+				<address_line>85 Dibba</address_line>
+				<suburb>Murirtin</suburb>
+				<post_code>7865</post_code>
+				<number type="home">56364574</number>
+				<number type="mobile">12459685</number>
+				<number type="work">85757488</number>
+				<number type="fax">85856574</number>
+			</address>
+			<!-- End Correspondence Address -->
+		</addresses>
+		<!-- End Addresses -->
+	</student>
+	<!-- End Student -->
+
+
+
+
+	<!-- Student -->
+	<student>
+		<!--Personal Details -->
+		<personaldetails>
+			<id>12548</id>
+			<title>Md</title>
+			<name type="surname">Sultan</name>
+			<name type="preferred_given">Sifat</name>
+			<name type="given_name">Sifat</name>
+			<gender>Male</gender>
+			<dob>24/5/1991</dob>
+			<email>sifatsultan@gmail.com</email>
+			<photo>img/sifat.png</photo>
+		</personaldetails>
+		<!-- Personal Details End -->
+
+		<!-- Courses -->
+		<courses>
+			<course status="Discontinued">5814</course>
+			<course status="Completed">5834</course>
+			<course status="Completed">5812</course>
+		</courses>
+		<!-- End Courses -->
+
+		<!-- Addresses -->
+		<addresses>
+			<!-- Home Address -->
+			<address type="home">
+				<start_date>12/4/2003</start_date>
+				<address_line>147 Happalink Road</address_line>
+				<suburb>Hummus Land</suburb>
+				<post_code>4445</post_code>
+				<number type="home">85364574</number>
+				<number type="mobile">96659685</number>
+				<number type="work">59857488</number>
+				<number type="fax">85859897</number>
+			</address>
+			<!-- End Home Address -->
+			<!-- Correspondence Address -->
+			<address type="correspondence">
+				<start_date>12/7/2004</start_date>
+				<address_line>85 Dibba</address_line>
+				<suburb>Murirtin</suburb>
+				<post_code>7865</post_code>
+				<number type="home">56364574</number>
+				<number type="mobile">12459685</number>
+				<number type="work">85757488</number>
+				<number type="fax">85856574</number>
+			</address>
+			<!-- End Correspondence Address -->
+		</addresses>
+		<!-- End Addresses -->
+	</student>
+	<!-- End Student -->
+
+
+
+</students>

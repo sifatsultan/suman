@@ -1,0 +1,22 @@
+.container-student{
+    margin-bottom: 200px;
+    border: solid 1px;
+    padding: 10px;
+    border-color: red;
+}
+
+.container-address{
+    margin-top: 10px;
+}
+
+.ul-nospace li{
+    margin: 0;
+    padding: 0;
+}
+
+section#banner{
+    margin-top: 70px;
+}
+li{
+    list-style: none;
+}

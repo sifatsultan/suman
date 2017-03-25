@@ -1,0 +1,55 @@
+<students>
+	<student>
+		<personaldetails>
+			<studentID>10324234</studentID>
+			<Title>Ms</Title>
+			<Surname>Mepan</Surname>
+			<PreferredGivenNames>Suman</PreferredGivenNames>
+			<GivenNames>Suman</GivenNames>
+			<Gender>Female</Gender>
+			<DateOfBirth></DateOfBirth>
+			<Email>suman@gmail.com</Email>
+		</personaldetails>
+
+		<address>
+			<correspondence>
+				<date>3/06/2005</date>
+				<address>1 Joondalup</address>
+				<suburb>Joondalup</suburb>
+			</correspondence>
+
+			<home>
+				<date></date>
+				<address></address>
+				<suburb></suburb>
+			</home>
+
+		</address>
+
+	</student>
+
+
+	<student>
+		<studentID>234233423</studentID>
+		<Title>Mr</Title>
+		<Surname>Rabadia</Surname>
+		<PreferredGivenNames>Pratik</PreferredGivenNames>
+		<GivenNames>Pratik</GivenNames>
+		<Gender>Male</Gender>
+		<DateOfBirth></DateOfBirth>
+		<Email>suman@gmail.com</Email>
+	</student>
+
+
+	<student>
+		<studentID>10324234</studentID>
+		<Title>Ms</Title>
+		<Surname>Mepan</Surname>
+		<PreferredGivenNames>Suman</PreferredGivenNames>
+		<GivenNames>Suman</GivenNames>
+		<Gender>Female</Gender>
+		<DateOfBirth></DateOfBirth>
+		<Email>suman@gmail.com</Email>
+	</student>
+
+</students>
